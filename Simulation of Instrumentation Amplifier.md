@@ -19,9 +19,17 @@ time delay stop time value.
 7. Click on the run option ->simulation window opens->place the probe ->output graph is 
 obtained.
 
-## CIRCUIT DIAGRAM AND OUTPUT GRAPH:
-<img width="897" height="1600" alt="image" src="https://github.com/user-attachments/assets/b64e3b98-a0be-4c3c-9923-0e287dceb84c" />
+## CIRCUIT DIAGRAM:
+
+<img width="966" height="602" alt="image" src="https://github.com/user-attachments/assets/729445a7-0645-41de-baf0-b3c7de749ad8" />
+
+
+## OUTPUT GRAPH:
+
+<img width="966" height="602" alt="image" src="https://github.com/user-attachments/assets/00ea621c-0de7-4bb9-9b25-7eaa66346235" />
+
 
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and Instrumentation amplifier circuit is simulated. 
+.
