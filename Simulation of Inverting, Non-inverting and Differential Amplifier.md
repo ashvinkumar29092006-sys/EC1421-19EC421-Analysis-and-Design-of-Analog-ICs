@@ -17,41 +17,34 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 ### INVERTING AMPLIFIER:
-<img width="1911" height="562" alt="image" src="https://github.com/user-attachments/assets/68602d64-c5f5-4502-8307-948b8c1fd459" />
 
-
-
+<img width="1102" height="822" alt="image" src="https://github.com/user-attachments/assets/645953f6-0698-447b-9c2b-6c4d5cde3660" />
 
 
 ### NON-INVERTING AMPLIFIER:
-<img width="1918" height="1050" alt="image" src="https://github.com/user-attachments/assets/69120aaa-bdcd-4595-9b9f-3ffa72430ead" />
 
-
-
+<img width="1102" height="822" alt="image" src="https://github.com/user-attachments/assets/8f71673e-61fd-4d15-8132-1a85435cd8b9" />
 
 
 ### DIFFERENTIAL AMPLIFIER:
-<img width="1918" height="1140" alt="image" src="https://github.com/user-attachments/assets/2cacfd46-4d3a-43f4-80e3-5c02d4abceba" />
 
+<img width="1102" height="822" alt="image" src="https://github.com/user-attachments/assets/fb3d3e30-5799-4ecc-b56e-c92447d05a25" />
 
 
 ## OUTPUT GRAPH:
 ### INVERTING AMPLIFIER:
-<img width="1912" height="578" alt="image" src="https://github.com/user-attachments/assets/314fdad6-7f10-42a0-b763-1115272d3d1a" />
 
-
+<img width="1102" height="822" alt="image" src="https://github.com/user-attachments/assets/ca8da142-0cde-467a-a671-8cb7ca3768c1" />
 
 
 ### NON-INVERTING AMPLIFIER:
-<img width="1918" height="557" alt="image" src="https://github.com/user-attachments/assets/61aa20fd-1f1d-4163-89af-dca6e1937590" />
 
-
+<img width="1102" height="822" alt="image" src="https://github.com/user-attachments/assets/e7072de9-5d9c-4f74-be86-ab1be8be0c35" />
 
 
 ### DIFFERENTIAL AMPLIFIER:
-<img width="1913" height="552" alt="image" src="https://github.com/user-attachments/assets/2a7369b1-1b2f-46f8-94a9-42c3a60f6f49" />
 
-
+<img width="1102" height="822" alt="image" src="https://github.com/user-attachments/assets/e290f3e1-ff43-4370-aeb8-2fe9ccbeeda9" />
 
 
 ## RESULT:
